@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\bin\Debug\TestChecked.exe.config
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.Form1.resources
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.Properties.Resources.resources
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\bin\Debug\TestChecked.exe
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\bin\Debug\TestChecked.pdb
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.exe
+E:\C#\w3\test\test_advance\TestChecked\TestChecked\obj\Debug\TestChecked.pdb

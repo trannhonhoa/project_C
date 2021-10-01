@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\bin\Debug\chk-radio.exe.config
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\bin\Debug\chk-radio.exe
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\bin\Debug\chk-radio.pdb
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk-radio.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk_radio.FormMain.resources
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk_radio.Properties.Resources.resources
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk-radio.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk-radio.exe
+E:\C#\w3\test\test_advance\chk-radio\chk-radio\obj\Debug\chk-radio.pdb

@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\bin\Debug\TestChuoi.exe.config
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\bin\Debug\TestChuoi.exe
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\bin\Debug\TestChuoi.pdb
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.Form1.resources
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.Properties.Resources.resources
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.exe
+E:\C#\w3\test\test_advance\TestChuoi\TestChuoi\obj\Debug\TestChuoi.pdb

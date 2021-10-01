@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\BLL.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\BLL.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\DAL.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\DTO.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\DAL.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\bin\Debug\DTO.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\obj\Debug\BLL.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\BLL\obj\Debug\BLL.pdb

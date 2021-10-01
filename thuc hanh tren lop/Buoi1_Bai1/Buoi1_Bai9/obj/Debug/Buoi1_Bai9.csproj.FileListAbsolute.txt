@@ -1,0 +1,6 @@
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\bin\Debug\Buoi1_Bai9.exe.config
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\bin\Debug\Buoi1_Bai9.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\bin\Debug\Buoi1_Bai9.pdb
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\obj\Debug\Buoi1_Bai9.csprojResolveAssemblyReference.cache
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\obj\Debug\Buoi1_Bai9.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai9\obj\Debug\Buoi1_Bai9.pdb

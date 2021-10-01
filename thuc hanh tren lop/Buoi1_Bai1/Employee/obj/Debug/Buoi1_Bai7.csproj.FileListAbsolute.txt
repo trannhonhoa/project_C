@@ -1,0 +1,6 @@
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\bin\Debug\Employee.exe.config
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\bin\Debug\Employee.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\bin\Debug\Employee.pdb
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\obj\Debug\Buoi1_Bai7.csprojResolveAssemblyReference.cache
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\obj\Debug\Employee.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Employee\obj\Debug\Employee.pdb

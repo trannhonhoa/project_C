@@ -1,0 +1,5 @@
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai3\bin\Debug\Buoi1_Bai3.exe.config
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai3\bin\Debug\Buoi1_Bai3.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai3\bin\Debug\Buoi1_Bai3.pdb
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai3\obj\Debug\Buoi1_Bai3.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\Buoi1_Bai3\obj\Debug\Buoi1_Bai3.pdb

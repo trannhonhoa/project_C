@@ -1,0 +1,10 @@
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\bin\Debug\DatVeXemPhim.exe.config
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\bin\Debug\DatVeXemPhim.exe
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\bin\Debug\DatVeXemPhim.pdb
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.Form1.resources
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.Properties.Resources.resources
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.exe
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.pdb
+E:\C#\w3\test\test_advance\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.frmDatve.resources

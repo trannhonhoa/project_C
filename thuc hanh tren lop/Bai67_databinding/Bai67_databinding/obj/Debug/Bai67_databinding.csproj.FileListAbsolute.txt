@@ -1,0 +1,1 @@
+E:\C#\thuc hanh tren lop\Bai67_databinding\Bai67_databinding\bin\Debug\Bai67_databinding.exe.config

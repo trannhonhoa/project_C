@@ -1,0 +1,15 @@
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\GUI.exe.config
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\GUI.exe
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\GUI.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\BLL.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\DTO.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\DAL.dll
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\BLL.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\DTO.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\bin\Debug\DAL.pdb
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.Form1.resources
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.exe
+E:\C#\w3\test\test_advance\Bai71KienTrucDatang\GUI\obj\Debug\GUI.pdb

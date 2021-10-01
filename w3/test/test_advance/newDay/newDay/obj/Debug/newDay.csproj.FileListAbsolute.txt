@@ -1,0 +1,10 @@
+E:\C#\w3\test\test_advance\newDay\newDay\bin\Debug\newDay.exe.config
+E:\C#\w3\test\test_advance\newDay\newDay\bin\Debug\newDay.exe
+E:\C#\w3\test\test_advance\newDay\newDay\bin\Debug\newDay.pdb
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.Form1.resources
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.Properties.Resources.resources
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.exe
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.pdb
+E:\C#\w3\test\test_advance\newDay\newDay\obj\Debug\newDay.frmSinhVien.resources

@@ -1,0 +1,12 @@
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\bin\Debug\ProjectTongHop_Bai69.exe.config
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\bin\Debug\ProjectTongHop_Bai69.exe
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\bin\Debug\ProjectTongHop_Bai69.pdb
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.Form1.resources
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.Properties.Resources.resources
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.exe
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.pdb
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\ProjectTongHop_Bai69.frmInan.resources
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\RdlCompile.cache
+E:\C#\w3\test\test_advance\ProjectTongHop_Bai69\ProjectTongHop_Bai69\obj\Debug\RdlCompile.compiled

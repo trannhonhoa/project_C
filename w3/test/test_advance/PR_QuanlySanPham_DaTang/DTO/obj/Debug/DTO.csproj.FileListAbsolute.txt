@@ -1,0 +1,5 @@
+E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DTO\bin\Debug\DTO.dll
+E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DTO\bin\Debug\DTO.pdb
+E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DTO\obj\Debug\DTO.dll
+E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DTO\obj\Debug\DTO.pdb

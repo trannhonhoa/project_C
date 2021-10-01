@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\bin\Debug\bai35-quanlykhachhang.exe.config
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\bin\Debug\bai35-quanlykhachhang.exe
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\bin\Debug\bai35-quanlykhachhang.pdb
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\Bai35-quanlysach.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\bai35_quanlykhachhang.Form1.resources
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\bai35_quanlykhachhang.Properties.Resources.resources
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\Bai35-quanlysach.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\bai35-quanlykhachhang.exe
+E:\C#\w3\test\test_advance\bai35-quanlykhachhang\bai35-quanlykhachhang\obj\Debug\bai35-quanlykhachhang.pdb

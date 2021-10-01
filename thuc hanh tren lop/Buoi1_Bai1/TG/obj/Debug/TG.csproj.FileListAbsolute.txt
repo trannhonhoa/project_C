@@ -1,0 +1,6 @@
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\bin\Debug\TG.exe.config
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\bin\Debug\TG.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\bin\Debug\TG.pdb
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\obj\Debug\TG.csprojResolveAssemblyReference.cache
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\obj\Debug\TG.exe
+E:\C#\thuc hanh tren lop\Buoi1_Bai1\TG\obj\Debug\TG.pdb

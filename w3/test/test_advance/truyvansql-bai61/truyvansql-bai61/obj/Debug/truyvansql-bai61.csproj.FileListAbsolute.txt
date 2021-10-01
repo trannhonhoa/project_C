@@ -1,0 +1,9 @@
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\bin\Debug\truyvansql-bai61.exe.config
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\bin\Debug\truyvansql-bai61.exe
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\bin\Debug\truyvansql-bai61.pdb
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql-bai61.csprojResolveAssemblyReference.cache
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql_bai61.Form1.resources
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql_bai61.Properties.Resources.resources
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql-bai61.csproj.GenerateResource.Cache
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql-bai61.exe
+E:\C#\w3\test\test_advance\truyvansql-bai61\truyvansql-bai61\obj\Debug\truyvansql-bai61.pdb

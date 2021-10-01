@@ -1,0 +1,9 @@
+E:\C#\w3\winform\lesson1\bin\Debug\lesson1.exe.config
+E:\C#\w3\winform\lesson1\bin\Debug\lesson1.exe
+E:\C#\w3\winform\lesson1\bin\Debug\lesson1.pdb
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.Form1.resources
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.Properties.Resources.resources
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.csproj.GenerateResource.Cache
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.exe
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.pdb
+E:\C#\w3\winform\lesson1\obj\Debug\lesson1.csprojResolveAssemblyReference.cache
