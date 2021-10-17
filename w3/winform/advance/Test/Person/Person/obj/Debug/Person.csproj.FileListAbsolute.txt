@@ -1,1 +1,0 @@
-E:\C#\w3\winform\advance\Test\Person\Person\bin\Debug\Person.exe.config

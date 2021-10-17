@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\bin\Debug\LoadTheoMaDanhMuc-bai61.exe.config
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\bin\Debug\LoadTheoMaDanhMuc-bai61.exe
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\bin\Debug\LoadTheoMaDanhMuc-bai61.pdb
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc-bai61.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc_bai61.Form1.resources
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc_bai61.Properties.Resources.resources
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc-bai61.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc-bai61.exe
-E:\C#\w3\test\test_advance\LoadTheoMaDanhMuc-bai61\LoadTheoMaDanhMuc-bai61\obj\Debug\LoadTheoMaDanhMuc-bai61.pdb

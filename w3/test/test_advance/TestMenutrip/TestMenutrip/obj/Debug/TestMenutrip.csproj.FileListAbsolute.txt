@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\bin\Debug\TestMenutrip.exe.config
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\bin\Debug\TestMenutrip.exe
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\bin\Debug\TestMenutrip.pdb
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.Form1.resources
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.Properties.Resources.resources
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.exe
-E:\C#\w3\test\test_advance\TestMenutrip\TestMenutrip\obj\Debug\TestMenutrip.pdb

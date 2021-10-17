@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe.config
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.pdb
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Form1.resources
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Properties.Resources.resources
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.exe
-E:\C#\w3\test\test_advance\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.pdb

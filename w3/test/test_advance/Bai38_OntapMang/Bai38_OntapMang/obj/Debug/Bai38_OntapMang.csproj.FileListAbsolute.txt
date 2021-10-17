@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\bin\Debug\Bai38_OntapMang.exe.config
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\bin\Debug\Bai38_OntapMang.exe
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\bin\Debug\Bai38_OntapMang.pdb
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.Form1.resources
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.Properties.Resources.resources
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.exe
-E:\C#\w3\test\test_advance\Bai38_OntapMang\Bai38_OntapMang\obj\Debug\Bai38_OntapMang.pdb

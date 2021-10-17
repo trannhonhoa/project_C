@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\bin\Debug\BidingData_bai67.exe.config
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\bin\Debug\BidingData_bai67.exe
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\bin\Debug\BidingData_bai67.pdb
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.Form1.resources
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.Properties.Resources.resources
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.exe
-E:\C#\w3\test\test_advance\BidingData_bai67\BidingData_bai67\obj\Debug\BidingData_bai67.pdb

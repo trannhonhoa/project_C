@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
-E:\C#\w3\test\test_advance\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

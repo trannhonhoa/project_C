@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\bin\Debug\tabcotrols.exe.config
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\bin\Debug\tabcotrols.exe
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\bin\Debug\tabcotrols.pdb
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.Form1.resources
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.Properties.Resources.resources
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.exe
-E:\C#\w3\test\test_advance\tabcotrols\tabcotrols\obj\Debug\tabcotrols.pdb

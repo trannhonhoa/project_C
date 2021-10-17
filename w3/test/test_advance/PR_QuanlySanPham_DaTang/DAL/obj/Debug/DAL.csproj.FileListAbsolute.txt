@@ -1,1 +1,0 @@
-E:\C#\w3\test\test_advance\PR_QuanlySanPham_DaTang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\bin\Debug\ThemSanPham-bai62.exe.config
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\bin\Debug\ThemSanPham-bai62.exe
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\bin\Debug\ThemSanPham-bai62.pdb
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham-bai62.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham_bai62.Form1.resources
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham_bai62.Properties.Resources.resources
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham-bai62.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham-bai62.exe
-E:\C#\w3\test\test_advance\ThemSanPham-bai62\ThemSanPham-bai62\obj\Debug\ThemSanPham-bai62.pdb

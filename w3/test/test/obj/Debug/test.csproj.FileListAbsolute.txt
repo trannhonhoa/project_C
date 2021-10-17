@@ -1,6 +1,0 @@
-E:\C#\w3\test\test\bin\Debug\test.exe.config
-E:\C#\w3\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test\bin\Debug\test.exe
-E:\C#\w3\test\test\bin\Debug\test.pdb
-E:\C#\w3\test\test\obj\Debug\test.exe
-E:\C#\w3\test\test\obj\Debug\test.pdb

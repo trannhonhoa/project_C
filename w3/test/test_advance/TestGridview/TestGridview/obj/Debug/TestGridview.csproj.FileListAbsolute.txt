@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\bin\Debug\TestGridview.exe.config
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.Form1.resources
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.Properties.Resources.resources
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\bin\Debug\TestGridview.exe
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\bin\Debug\TestGridview.pdb
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.exe
-E:\C#\w3\test\test_advance\TestGridview\TestGridview\obj\Debug\TestGridview.pdb

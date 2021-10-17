@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\bin\Debug\updateData-bai63.exe.config
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\bin\Debug\updateData-bai63.exe
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\bin\Debug\updateData-bai63.pdb
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData-bai63.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData_bai63.Form1.resources
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData_bai63.Properties.Resources.resources
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData-bai63.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData-bai63.exe
-E:\C#\w3\test\test_advance\updateData-bai63\updateData-bai63\obj\Debug\updateData-bai63.pdb

@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\process\process\bin\Debug\process.exe.config
-E:\C#\w3\test\test_advance\process\process\bin\Debug\process.exe
-E:\C#\w3\test\test_advance\process\process\bin\Debug\process.pdb
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.Form1.resources
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.Properties.Resources.resources
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.exe
-E:\C#\w3\test\test_advance\process\process\obj\Debug\process.pdb

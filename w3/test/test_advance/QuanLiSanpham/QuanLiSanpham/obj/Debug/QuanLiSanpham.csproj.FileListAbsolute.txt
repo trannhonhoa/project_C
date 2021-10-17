@@ -1,9 +1,0 @@
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\bin\Debug\QuanLiSanpham.exe.config
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\bin\Debug\QuanLiSanpham.exe
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\bin\Debug\QuanLiSanpham.pdb
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.Form1.resources
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.Properties.Resources.resources
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.csproj.GenerateResource.Cache
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.exe
-E:\C#\w3\test\test_advance\QuanLiSanpham\QuanLiSanpham\obj\Debug\QuanLiSanpham.pdb

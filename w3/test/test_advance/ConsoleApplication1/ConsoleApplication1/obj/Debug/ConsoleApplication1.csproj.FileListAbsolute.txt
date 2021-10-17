@@ -1,6 +1,0 @@
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-E:\C#\w3\test\test_advance\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

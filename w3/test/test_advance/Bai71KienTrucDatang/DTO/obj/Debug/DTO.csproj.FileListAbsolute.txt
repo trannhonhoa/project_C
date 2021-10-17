@@ -1,5 +1,0 @@
-E:\C#\w3\test\test_advance\Bai71KienTrucDatang\DTO\bin\Debug\DTO.dll
-E:\C#\w3\test\test_advance\Bai71KienTrucDatang\DTO\bin\Debug\DTO.pdb
-E:\C#\w3\test\test_advance\Bai71KienTrucDatang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
-E:\C#\w3\test\test_advance\Bai71KienTrucDatang\DTO\obj\Debug\DTO.dll
-E:\C#\w3\test\test_advance\Bai71KienTrucDatang\DTO\obj\Debug\DTO.pdb
