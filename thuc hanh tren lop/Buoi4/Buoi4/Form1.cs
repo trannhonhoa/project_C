@@ -16,7 +16,7 @@ namespace Buoi4
         {
             InitializeComponent();
         }
-        int[] arr = new int[100];
+        int[] arr = new int[10];
         int sopt = 0;
         private string InMang()
         {
@@ -30,34 +30,27 @@ namespace Buoi4
         private int TimMax()
         {
             int max = arr[0];
-            foreach (int x in arr)
+            for (int i = 1; i < sopt; i++)
             {
-                if (max < x)
-                {
-                    max = x;
-                }
+                if (max < arr[i]) { max = arr[i]; }
             }
             return max;
         }
         private int TimMin()
         {
             int min = arr[0];
-            foreach (int x in arr)
+            for (int i = 1; i < sopt; i++)
             {
-                if (min > x)
-                {
-                    min = x;
-                }
+                if (min > arr[i]) { min = arr[i]; }
             }
             return min;
         }
         private float TrungBinhMang()
         {
             float sum = 0;
-            foreach (int x in arr)
+            for (int i = 0; i < sopt; i++)
             {
-                sum += x;
-                sopt++;
+                sum += arr[i];
             }
             return sum / sopt;
         }
@@ -69,7 +62,7 @@ namespace Buoi4
         {
             a = Math.Abs(a);
             b = Math.Abs(b);
-
+            while(a!=b)
             {
                 if (a > b)
                 {
@@ -178,7 +171,7 @@ namespace Buoi4
 
         private void btnUCLN_Click(object sender, EventArgs e)
         {
-            txtKetQua.Text = "Ước chung lớn nhất 2 phần tử đầu tiên là: " + UCLN(arr[0], arr[1]).ToString();
+            txtKetQua.Text = "Ước chung lớn nhất 2 phần tử " + arr[0] + " và " +arr[1] +" là: " + UCLN(arr[0], arr[1]).ToString();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -239,14 +232,13 @@ namespace Buoi4
         private void btnTongMang_Click(object sender, EventArgs e)
         {
             int sum = 0;
-            foreach (int x in arr)
+            for (int i = 0; i < sopt; i++)
             {
-                sum += x;
-                sopt++;
+                sum += arr[i];
             }
             txtKetQua.Text = "Tổng mảng: " + sum;
         }
-
+        
         private void btnSoLonNhat_Click(object sender, EventArgs e)
         {
             txtKetQua.Text = "Số lớn nhất: " + TimMax().ToString();
@@ -274,7 +266,7 @@ namespace Buoi4
             {
                 if (SoHoanHao(arr[i]))
                 {
-                    txtKetQua.Text = arr[i] + ""; dem++;
+                    txtKetQua.Text = arr[i] + " "; dem++;
                 }
             }
             if (dem == 0) txtKetQua.Text = "Không có số hoàn hảo bạn êiiiii !!";
